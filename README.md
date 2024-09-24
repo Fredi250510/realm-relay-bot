@@ -13,11 +13,17 @@ Note:
 The Bot wont kick anyone one the Realm (im not a good dev :/) so it just Flags Players.
 
 Requirements:
+
 -NodeJS
+
 -DiscordJS
+
 -Visual Studio Code (optimal)
+
 -Bedrock Protocol (Latest Version)
+
 -Discord Bot Token
+
 -Realm Code (ofc)
 
 How to run:
