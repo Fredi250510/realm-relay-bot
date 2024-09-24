@@ -47,7 +47,7 @@ Use "!set relay" to set a Relay Channel in Discord
 "!help" lists all Commands
 
 "!leave" Disconnect the Client from the Realm
-
+ 
 "!join" Connect the Client to the Realm
 
 Please ignore !config for now!!
