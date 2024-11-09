@@ -1,0 +1,11 @@
+{
+  "bot_token": "bot_token_here",
+  "realm_code": "realm_code_here",
+  "reconnect_attempts": 3,
+  "reconnect_interval": 5000,
+  "bot_prefix": "!",
+  "whitelisted_players": ["Player1", "Player2"],
+  "banned_devices": ["Windows x64", "Nintendo Switch"],
+  "block_list": ["Player1", "Player2"],
+  "relay_channel_file": "relayChannel.json"
+}
